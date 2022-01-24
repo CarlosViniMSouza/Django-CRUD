@@ -4,5 +4,5 @@ from django.urls import path, include
 # DataFlair
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('book.urls'))
+    path('', include('book_api.urls'))
 ]

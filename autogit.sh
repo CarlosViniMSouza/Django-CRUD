@@ -1,4 +1,4 @@
 git add -A
-git commit -m "templates .html -> created | urls.py (project and app) -> add"
+git commit -m "errors in settings.py | Django_CRUD/urls.py and book_api/urls.py"
 git push
 git status
