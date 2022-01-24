@@ -6,3 +6,11 @@
 ## D -> delete | (method delete())
 
 ### Link for tutorial: https://data-flair.training/blogs/django-crud-example/
+
+```json
+{
+  "user": "carlosvinimsouza",
+  "password": "django123",
+  "SuperUser": "created"
+}
+```
