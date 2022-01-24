@@ -1,4 +1,4 @@
 git add -A
-git commit -m "Model and Forms -> created"
+git commit -m "db.sqlite3 -> created & add"
 git push
 git status
